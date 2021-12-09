@@ -1,7 +1,7 @@
 
 +++
 author = "NamNT"
-title = "Ký tự full size and half size tiếng Nhật"
+title = "Ký tự full size and half size"
 date = "2021-12-01"
 description = "半角文字と全角文字"
 categories = [
