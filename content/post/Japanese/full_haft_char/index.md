@@ -14,7 +14,7 @@ tags = [
 ]
 +++
 
-## Full size and half size là gì?
+## Full size và half size là gì?
 full size (hay full width, 全角) and half size (hay half width, 半角) tiếng Nhật
 
 ![ví dụ](https://mina.edu.vn/uploads/2019/10/tt.png)
