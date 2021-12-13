@@ -5,5 +5,5 @@ slug: "Japanese"
 image: "Japanese-logo.jpg"
 style:
     background: "#2a9d8f"
-    color: "#fff"
+    color: "#7023b7"
 ---
