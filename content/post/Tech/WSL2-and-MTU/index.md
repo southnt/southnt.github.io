@@ -5,8 +5,7 @@ title = "WSL2 affects MTU"
 date = "2021-12-01"
 description = "A brief description of Hugo Shortcodes"
 categories = [
-    "Test",
-    "Test with whitespaces"
+    "Tech",
 ]
 tags = [
     "IT",

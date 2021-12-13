@@ -5,8 +5,8 @@ title = "Luyện nghe"
 date = "2021-12-01"
 description = "A brief description of Hugo Shortcodes"
 categories = [
-    "Test",
-    "Test with whitespaces"
+    "BJT",
+    "Japanese"
 ]
 tags = [
     "BJT",
