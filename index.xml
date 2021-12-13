@@ -105,7 +105,16 @@ alt="ví dụ">
 &lt;p>&lt;a class="link" href="https://youtube.com/playlist?list=PLD5dGhUhzxiar4N19V9Qo1pKtWqD9ZHe9" target="_blank" rel="noopener"
 >【EJU】日本留学試験＜聴読解＞&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://youtu.be/hwXuv34SA4U" target="_blank" rel="noopener"
->Luyện nghe siêu cấp (日本留学試験日本語ＥＪＵ対策シリーズ）&lt;/a>&lt;/p></description></item><item><title>WSL2 affects MTU</title><link>https://southnt.github.io/p/wsl2-affects-mtu/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/wsl2-affects-mtu/</guid><description>&lt;h2 id="wsl2">WSL2&lt;/h2>
+>Luyện nghe siêu cấp (日本留学試験日本語ＥＪＵ対策シリーズ）&lt;/a>&lt;/p></description></item><item><title>Python Tip and Trick</title><link>https://southnt.github.io/p/python-tip-and-trick/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/python-tip-and-trick/</guid><description>&lt;h2 id="note">Note&lt;/h2>
+&lt;h2 id="tham-khảo">Tham khảo&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chiphuyen/python-is-cool" target="_blank" rel="noopener"
+>https://github.com/chiphuyen/python-is-cool&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://viblo.asia/p/nhung-thu-thuat-python-ban-nhat-dinh-phai-biet-tren-con-duong-go-pro-gGJ59XDGlX2" target="_blank" rel="noopener"
+>https://viblo.asia/p/nhung-thu-thuat-python-ban-nhat-dinh-phai-biet-tren-con-duong-go-pro-gGJ59XDGlX2&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://manhhomienbienthuy.github.io/2017/07/24/mot-vai-trick-python-ban-nhat-dinh-phai-biet-tren-con-duong-go-pro.html#" target="_blank" rel="noopener"
+>https://manhhomienbienthuy.github.io/2017/07/24/mot-vai-trick-python-ban-nhat-dinh-phai-biet-tren-con-duong-go-pro.html#&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>WSL2 affects MTU</title><link>https://southnt.github.io/p/wsl2-affects-mtu/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/wsl2-affects-mtu/</guid><description>&lt;h2 id="wsl2">WSL2&lt;/h2>
 &lt;p>Cài đặt wsl2:
 &lt;a class="link" href="https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10" target="_blank" rel="noopener"
 >https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10&lt;/a>&lt;/p>
