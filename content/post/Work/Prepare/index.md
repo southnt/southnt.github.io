@@ -2,7 +2,7 @@
 +++
 author = "NamNT"
 title = "Work"
-date = "2021-12-1"
+date = "2021-12-01"
 description = "Lương lậu, revire công ty"
 categories = [
     "Work",

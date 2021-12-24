@@ -2,7 +2,7 @@
 +++
 author = "NamNT"
 title = "Life"
-date = "2021-12-1"
+date = "2021-12-01"
 description = "Life"
 categories = [
     "Life",
@@ -22,7 +22,8 @@ tags = [
 
 
 ## Thuế
-Nenking online: https://www.nenkin.go.jp/
+Nenking online: https://www.nenkin.go.jp
+
 Tính khấu trừ: https://keisan.casio.jp/exec/system/1291628865
 
 ## Bảo hộ công dân
