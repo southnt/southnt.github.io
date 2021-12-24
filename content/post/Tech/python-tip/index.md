@@ -14,6 +14,8 @@ tags = [
 +++
 
 ## Note
+* [Vì sao 0.1 + 0.1 + 0.1 không bằng 0.3?](https://kipalog.com/posts/Vi-sao-0-1---0-1---0-1-khong-bang-0-3)
+* 
 
 ## Tham khảo
 * https://github.com/chiphuyen/python-is-cool
