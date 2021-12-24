@@ -36,7 +36,7 @@
 >Admissions&lt;/a>&lt;/p>
 &lt;h3 id="rikkyo-university">Rikkyo University&lt;/h3>
 &lt;h3 id="chuo-university">Chuo University&lt;/h3>
-&lt;h2 id="scholarship-as-private-student">Scholarship (As private student)&lt;/h2></description></item><item><title>Bài Tập</title><link>https://southnt.github.io/p/b%C3%A0i-t%E1%BA%ADp/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/b%C3%A0i-t%E1%BA%ADp/</guid><description>&lt;h2 id="dễ---難易度中---">Dễ 難易度：中 ⭐ ⭐&lt;/h2>
+&lt;h2 id="scholarship-as-private-student">Scholarship (As private student)&lt;/h2></description></item><item><title>Template</title><link>https://southnt.github.io/p/template/</link><pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/template/</guid><description>&lt;h2 id="template">Template&lt;/h2></description></item><item><title>Bài Tập</title><link>https://southnt.github.io/p/b%C3%A0i-t%E1%BA%ADp/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/b%C3%A0i-t%E1%BA%ADp/</guid><description>&lt;h2 id="dễ---難易度中---">Dễ 難易度：中 ⭐ ⭐&lt;/h2>
 &lt;ol>
 &lt;li>dsg&lt;/li>
 &lt;li>sdgs&lt;/li>
@@ -144,6 +144,11 @@ alt="ví dụ">
 >【EJU】日本留学試験＜聴読解＞&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://youtu.be/hwXuv34SA4U" target="_blank" rel="noopener"
 >Luyện nghe siêu cấp (日本留学試験日本語ＥＪＵ対策シリーズ）&lt;/a>&lt;/p></description></item><item><title>Python Tip and Trick</title><link>https://southnt.github.io/p/python-tip-and-trick/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/python-tip-and-trick/</guid><description>&lt;h2 id="note">Note&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://kipalog.com/posts/Vi-sao-0-1---0-1---0-1-khong-bang-0-3" target="_blank" rel="noopener"
+>Vì sao 0.1 + 0.1 + 0.1 không bằng 0.3?&lt;/a>&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
 &lt;h2 id="tham-khảo">Tham khảo&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://github.com/chiphuyen/python-is-cool" target="_blank" rel="noopener"
@@ -173,4 +178,34 @@ alt="ví dụ">
 &lt;blockquote>
 &lt;p>A metric is a value that&amp;rsquo;s assigned to an IP route for a particular network interface. It identifies the cost that&amp;rsquo;s associated with using that route.&lt;/p>
 &lt;/blockquote>
-&lt;p>Trước khi install wsl, packet đi theo lộ trình A không có vấn đề gì, nhưng sau khi install wsl2 thì giá trị metrix bị thay đổi đẫn đến packet đi theo lộ trình B. Ở lộ trình B này, ở một hub nào đó giá trị MTU &amp;lt; giá trị MTU mà máy bạn setting thì packet sẽ không truyền đi được dẫn tới lỗi!&lt;/p></description></item></channel></rss>
+&lt;p>Trước khi install wsl, packet đi theo lộ trình A không có vấn đề gì, nhưng sau khi install wsl2 thì giá trị metrix bị thay đổi đẫn đến packet đi theo lộ trình B. Ở lộ trình B này, ở một hub nào đó giá trị MTU &amp;lt; giá trị MTU mà máy bạn setting thì packet sẽ không truyền đi được dẫn tới lỗi!&lt;/p></description></item><item><title>Life</title><link>https://southnt.github.io/p/life/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/life/</guid><description>&lt;h2 id="note">Note&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://earth.nullschool.net/jp/#current/wind/surface/level/orthographic=-225.90,34.80,1517/loc=133.027,34.330" target="_blank" rel="noopener"
+>Ảnh mây vệ tinh&lt;/a>&lt;/li>
+&lt;li>flightradar &lt;a class="link" href="https://www.flightradar24.com/8.55,112/2" target="_blank" rel="noopener"
+>https://www.flightradar24.com/8.55,112/2&lt;/a>&lt;/li>
+&lt;li>Cho nhân đồ free &lt;a class="link" href="https://jmty.jp" target="_blank" rel="noopener"
+>https://jmty.jp&lt;/a>&lt;/li>
+&lt;li>Tìm đường tàu khi đi xa: &lt;a class="link" href="https://transit.yahoo.co.jp/" target="_blank" rel="noopener"
+>https://transit.yahoo.co.jp/&lt;/a>&lt;/li>
+&lt;li>Bus đêm: &lt;a class="link" href="https://www.bushikaku.net/" target="_blank" rel="noopener"
+>https://www.bushikaku.net/&lt;/a>&lt;/li>
+&lt;li>Trạng thái lá đỏ: &lt;a class="link" href="https://weathernews.jp/s/koyo/" target="_blank" rel="noopener"
+>https://weathernews.jp/s/koyo/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="thuế">Thuế&lt;/h2>
+&lt;p>Nenking online: &lt;a class="link" href="https://www.nenkin.go.jp/" target="_blank" rel="noopener"
+>https://www.nenkin.go.jp/&lt;/a>
+Tính khấu trừ: &lt;a class="link" href="https://keisan.casio.jp/exec/system/1291628865" target="_blank" rel="noopener"
+>https://keisan.casio.jp/exec/system/1291628865&lt;/a>&lt;/p>
+&lt;h2 id="bảo-hộ-công-dân">Bảo hộ công dân&lt;/h2>
+&lt;p>Trong trường hợp cần trợ giúp hoặc có thông tin về người Việt Nam gặp khó khăn, đề nghị liên hệ với đường dây nóng Bảo hộ công dân của Đại sứ quán Việt Nam tại Nhật Bản: 81.80.3590.9136; đường dây nóng bảo hộ công dân của Tổng Lãnh sự quán Việt Nam tại Osaka (Nhật Bản): 81.90.4769.6789 hoặc Tổng đài bảo hộ công dân: 84.981.84.84.84.&lt;/p></description></item><item><title>Work</title><link>https://southnt.github.io/p/work/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/work/</guid><description>&lt;h2 id="salary">Salary&lt;/h2>
+&lt;p>&lt;a class="link" href="https://opensalary.jp/" target="_blank" rel="noopener"
+>https://opensalary.jp/&lt;/a>&lt;/p>
+&lt;h2 id="review-công-ty">Review công ty&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://reviewcongty.com/" target="_blank" rel="noopener"
+>Vietnam&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://en-hyouban.com/" target="_blank" rel="noopener"
+>Japan&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
