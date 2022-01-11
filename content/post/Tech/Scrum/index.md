@@ -14,26 +14,35 @@ tags = [
 
 ## Scrum org
 https://www.scrum.org/
-
 Nên học theo [Scrum Guide 2020](https://scrumguides.org/scrum-guide.html) (trước đây thì là Scrum Guide 2017)
 
 ## Kinh nghiệm thi
 ### Bài thi trên Classmarker
 Các bài thi trên scrum sẽ có môi trường giống hệt như bài thi thử này, đều dựa trên classmarker.
-
 https://www.classmarker.com/online-test/
-
 Scrum Open Assessments trên trang chủ của scrum có môi trường hơi khác so với đề thi thật (Khi thi thật bạn không thể copy câu trả lời để dịch).
 
 ### Tiếng Anh
 Vì bài thi hoàn toàn bằng tiếng anh nên bạn nên có vốn tiếng anh cơ bản để có thể làm được bài. Ngoài ra trên trang chủ của scrum cũng gợi ý cho những người không có tiếng anh là tiếng mẹ đẻ là dùng plugin translate nếu cần thiết, nhưng hiện tại mình không tìm lại được phần đó, khi nào tìm ra mình sẽ note lại. 
 
 ### Kinh nghiệm/bài giảng của người thi trước
+* https://www.volkerdon.com/courses/psm1
 * https://www.scrumviet.org/blog
 * https://www.scrumviet.org/blog/oi-ieu-ve-chung-chi-pspo-i-pspo-ii-va-pspo-iii-cua-scrumorg
+* https://text.relipasoft.com/2019/07/toi-da-chuan-bi-thi-psm-1-nhu-the-nao/
+* https://vnpmi.org/category/kinh-nghiem-vuot-qua-ky-thi-psm1-scrum-master-ngay-lan-dau-tien
+* https://hocvienagile.com/kinh-nghiem-thi-chung-chi-scrum-master-psm1/
 
 Có rất nhiều câu hỏi luyện tập có sẵn trên mạng, bạn có thể tìm để luyện tập thật kỹ trước khi đi thi. Nhiều câu hỏi có nội dung giống với đề thi thật.
 
+### Luyện tập
+Một số nguồn bài tập để củng cố kiến thức (Chú ý, một vài câu trả lời có đáp án không đúng, nên đọc những comment của người khác về câu hỏi đó):
+* https://vceguide.com/scrum-certification/
+* https://chercher.tech/agile-certification/scrum-master-certification-prep-questions-set-1
+* https://www.freecram.com/Home
+* https://quizform.net/
+* https://scrum-exams.info/psm-i/
+* https://mlapshin.com/index.php/scrum-quizzes/po-real-mode/
 ## PSM
 ### PSM I
     * Fee: 150$
@@ -51,12 +60,10 @@ Có rất nhiều câu hỏi luyện tập có sẵn trên mạng, bạn có th�
         * multiple choice, multiple answers, and true/false.
     * Passing score: 85%
     * Language (English only)
-
 Câu hỏi tiếng anh khá là dài.
 
 ### PSM III
 https://scrumpractice.org/
-
 Giống với PSM II nhưng có thêm những câu hỏi mà bạn phải trả lời bằng cách tự viết câu trả lời của mình vào textbox.
 
 ## PSPO
@@ -67,7 +74,6 @@ Giống với PSM II nhưng có thêm những câu hỏi mà bạn phải trả 
         * multiple choice, multiple answers, and true/false.
     * Passing score: 85% (34 questions)
     * Language (English only)
-
 
 Mình không thi PSPO I mà thi luôn PSPO II
 
@@ -80,12 +86,10 @@ Mình không thi PSPO I mà thi luôn PSPO II
     * Passing score: 85% (34 questions)
     * Language (English only)
 
-
 Khác với PSM II, PSPO II có một số câu hỏi không nói rõ có bao nhiêu câu đúng.
 Nếu câu hỏi đó bạn chọn không đủ hết só lượng câu đúng thì bạn cũng sẽ không bị trừ hết điểm của câu đó. Vì có tất cả 40 câu hỏi, nhưng khi nhận được kết quả thì mình thấy họ ghi như sau:
 
 **Passed**
-
 Score: xx.x% (yyy points scored out of 152 maximum points) 
 
 ### PSPO III
