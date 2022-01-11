@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Scholarship"
 description: "This scholar category"
 slug: "Scholarship"
 image: "scholarship.png"
