@@ -55,6 +55,7 @@ tags = [
 
 ### Chuo University
 
+---
 ## Scholarship (As private student)
 
 * [**Otsuka Foundation**](http://www.otsukafoundation.org/guide/index.html)
@@ -81,5 +82,4 @@ Trị giá 150,000 yen/tháng cho sinh viên sau Đại học.
 Trị giá học bổng: Học phí lên đến 2,500,000 jpy, phí đi lại, sinh hoạt phí 200,000 jpy/tháng và trợ cấp cho vợ/chồng đi cùng (nếu có). Học bổng cấp trong vòng 2 năm với bậc Thạc sĩ, và 3 năm với bậc Tiến sĩ. 
 Học bổng được trao cho sinh viên các trường ĐH Tokyo, Tokodai, ĐH Keio, ĐH Waseda, ĐH Kyoto, ĐH Doshisha, ĐH Kwansei Gakuin, ĐH Nagoya, ĐH Osaka, ĐH Kyushu.
 * [**Học bổng ITASIA, ĐH Tokyo, Nhật**](https://www.facebook.com/Gakutomo/posts/3501044853294870)
-
 ITASIA là chương trình thuộc Graduate School of Interdisciplinary Information Studies (GSII) của ĐH Tokyo, Nhật Bản và được giảng dạy hoàn toàn bằng tiếng Anh. Tên gọi cũng đã phản ánh nội dung đào tạo của chương trình: tìm hiểu về xã hội và quan hệ quốc tế trong khu vực châu Á, trong bối cảnh công nghệ thông tin và giao tiếp đang có ảnh hưởng ngày càng mạnh mẽ. Chương trình sẽ bắt đầu nhận đơn từ 1/10/2020 cho kỳ nhập học 9/2021. Chương trình có học bổng toàn phần trước khi nhập học (như đã chia sẻ ở bài trước) và cả các cơ hội học bổng sau khi nhập học nữa. Quota tuyển chọn: 12 bạn cho chương trình Thạc sĩ, 8 bạn cho chương trình Tiến sĩ. 
