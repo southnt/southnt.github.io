@@ -57,30 +57,28 @@ tags = [
 
 ---
 ## Scholarship (As private student)
-
-* [**Otsuka Foundation**](http://www.otsukafoundation.org/guide/index.html)
+### [Otsuka Foundation](http://www.otsukafoundation.org/guide/index.html)
 
 年額200万円、150万円または100万円（当財団選考委員会による評価に応じて決定）ただし、併給の場合は年額50万円
-* [**Hirose Foundation**](https://www.facebook.com/Gakutomo/posts/4034776476588369)
+### [Hirose Foundation](https://www.facebook.com/Gakutomo/posts/4034776476588369)
 
 支給額: 学部生　月額18万円, 大学院生　月額20万円
 Học bổng được trao cho 1 năm, sau đó có thể gia hạn tiếp cho tới khi bạn hoàn thành chương trình học. 
 Bạn cần ứng tuyển trực tiếp với trường ĐH mà bạn đang/sẽ theo học (tính tại ngày 1/4/2021) và trường sẽ tiến cử bạn lên quỹ học bổng. 
-* [**Honjo International Scholarship Foundation**](https://www.facebook.com/Gakutomo/posts/4002484356484248)
-
+### [Honjo International Scholarship Foundation](https://www.facebook.com/Gakutomo/posts/4002484356484248)
 Trị giá học bổng:
 (i) 200,000 jpy/tháng trong 1 hoặc 2 năm
 (ii) 180,000 jpy/tháng trong 3 năm
 (iii) 150,000 jpy/tháng trong 4 hoặc 5 năm  
 Chi phí đi lại để tham gia hội nghị quốc tế cũng có thể được cấp. Lưu ý: các bạn không cần thông qua trường ĐH mà bạn định theo học đâu nhé, cứ tự nộp hồ sơ theo hướng dẫn của học bổng là được.
-* [**Học bổng JESS Mitsubishi**](https://www.facebook.com/Gakutomo/posts/3760139387385414)
+### [Học bổng JESS Mitsubishi](https://www.facebook.com/Gakutomo/posts/3760139387385414)
 
 Trị giá 150,000 yen/tháng cho sinh viên sau Đại học. 
-* [**Học bổng quỹ Ito**](https://www.facebook.com/Gakutomo/posts/3576526505746704)
-* [**Học bổng Quỹ Yoshida**](https://www.facebook.com/Gakutomo/posts/3287980974601260)
+### [Học bổng quỹ Ito](https://www.facebook.com/Gakutomo/posts/3576526505746704)
+### [Học bổng Quỹ Yoshida](https://www.facebook.com/Gakutomo/posts/3287980974601260)
 
 Trị giá học bổng: Học phí lên đến 2,500,000 jpy, phí đi lại, sinh hoạt phí 200,000 jpy/tháng và trợ cấp cho vợ/chồng đi cùng (nếu có). Học bổng cấp trong vòng 2 năm với bậc Thạc sĩ, và 3 năm với bậc Tiến sĩ. 
 Học bổng được trao cho sinh viên các trường ĐH Tokyo, Tokodai, ĐH Keio, ĐH Waseda, ĐH Kyoto, ĐH Doshisha, ĐH Kwansei Gakuin, ĐH Nagoya, ĐH Osaka, ĐH Kyushu.
-* [**Học bổng ITASIA, ĐH Tokyo, Nhật**](https://www.facebook.com/Gakutomo/posts/3501044853294870)
+### [Học bổng ITASIA, ĐH Tokyo, Nhật](https://www.facebook.com/Gakutomo/posts/3501044853294870)
 
 ITASIA là chương trình thuộc Graduate School of Interdisciplinary Information Studies (GSII) của ĐH Tokyo, Nhật Bản và được giảng dạy hoàn toàn bằng tiếng Anh. Tên gọi cũng đã phản ánh nội dung đào tạo của chương trình: tìm hiểu về xã hội và quan hệ quốc tế trong khu vực châu Á, trong bối cảnh công nghệ thông tin và giao tiếp đang có ảnh hưởng ngày càng mạnh mẽ. Chương trình sẽ bắt đầu nhận đơn từ 1/10/2020 cho kỳ nhập học 9/2021. Chương trình có học bổng toàn phần trước khi nhập học (như đã chia sẻ ở bài trước) và cả các cơ hội học bổng sau khi nhập học nữa. Quota tuyển chọn: 12 bạn cho chương trình Thạc sĩ, 8 bạn cho chương trình Tiến sĩ. 
