@@ -4,6 +4,6 @@ description: "This Life category"
 slug: "Life"
 image: "life.png"
 style:
-    background: "#ffff00"
+    background: "#0000ff"
     color: "#fff"
 ---
