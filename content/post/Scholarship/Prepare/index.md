@@ -24,12 +24,14 @@ tags = [
 ### Kyoto University
 [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/admission/application.html)
 
+[Computer Vision Lab](https://vision.ist.i.kyoto-u.ac.jp/)
 
 ### Tokyo Institute of Technology
 [International Graduate Program](https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate)
 
 ### Osaka University
-
+* https://www.osaka-u.ac.jp/en/admissions/graduate
+* https://ngottx.github.io/index.html
 ### Japan Advanced Institute of Science and Technology
 
 ###  National Institute of Informatics 
