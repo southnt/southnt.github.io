@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NamNT Blog</title><link>https://southnt.github.io/</link><description>Recent content on NamNT Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://southnt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Research Tools</title><link>https://southnt.github.io/p/research-tools/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/research-tools/</guid><description>&lt;h2 id="rank">Rank&lt;/h2>
 &lt;ul>
-&lt;li>Tổng hợp Calls For Papers: &lt;a class="link" href="http://www.wikicfp.com/cfp/" target="_blank" rel="noopener"
->http://www.wikicfp.com/cfp/&lt;/a>&lt;/li>
 &lt;li>Conference ranks: &lt;a class="link" href="http://www.conferenceranks.com/#data" target="_blank" rel="noopener"
 >http://www.conferenceranks.com/#data&lt;/a>&lt;/li>
 &lt;li>Xếp hạng bài báo (Q1, Q2&amp;hellip;): &lt;a class="link" href="https://www.scimagojr.com/index.php" target="_blank" rel="noopener"
 >https://www.scimagojr.com/index.php&lt;/a>&lt;/li>
 &lt;li>Top Journals/Conferences Ranking: &lt;a class="link" href="https://research.com/" target="_blank" rel="noopener"
 >https://research.com/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="conferences">Conferences&lt;/h2>
+&lt;ul>
+&lt;li>Tổng hợp Calls For Papers: &lt;a class="link" href="http://www.wikicfp.com/cfp/" target="_blank" rel="noopener"
+>http://www.wikicfp.com/cfp/&lt;/a>&lt;/li>
+&lt;li>Calendar of computer science conf: &lt;a class="link" href="http://conferences.visionbib.com/Iris-Conferences.html" target="_blank" rel="noopener"
+>http://conferences.visionbib.com/Iris-Conferences.html&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="fund">Fund&lt;/h2>
 &lt;ul>
@@ -19,6 +24,15 @@
 &lt;li>TÌm kiếm tài liệu tương tự: &lt;a class="link" href="https://www.connectedpapers.com/" target="_blank" rel="noopener"
 >Connected Papers&lt;/a>, &lt;a class="link" href="https://www.researchrabbit.ai/" target="_blank" rel="noopener"
 >Research Rabbit&lt;/a>&lt;/li>
+&lt;li>Generate code cho bảng (latex, markdown): &lt;a class="link" href="https://www.tablesgenerator.com/" target="_blank" rel="noopener"
+>https://www.tablesgenerator.com/&lt;/a>&lt;/li>
+&lt;li>&amp;ldquo;Sinh ký tự đặc biệt trong latex: &lt;a class="link" href="https://editor.codecogs.com/" target="_blank" rel="noopener"
+>https://editor.codecogs.com/&lt;/a>&lt;/li>
+&lt;li>Vẽ diagram: &lt;a class="link" href="https://www.draw.io" target="_blank" rel="noopener"
+>draw.io&lt;/a>, &lt;a class="link" href="https://cacoo.com/" target="_blank" rel="noopener"
+>cacoo.com&lt;/a>, &lt;a class="link" href="https://www.lucidchart.com/pages/" target="_blank" rel="noopener"
+>lucidchart.com&lt;/a>, &lt;a class="link" href="https://dbdiagram.io/home" target="_blank" rel="noopener"
+>dbdiagram.io&lt;/a>&lt;/li>
 &lt;li>Viết bài văn cho mình: &lt;a class="link" href="https://www.shortlyai.com/" target="_blank" rel="noopener"
 >https://www.shortlyai.com/&lt;/a>&lt;/li>
 &lt;li>Kéo dài văn bản: &lt;a class="link" href="http://www.textinflator.com/" target="_blank" rel="noopener"
@@ -219,10 +233,18 @@ Score: xx.x% (yyy points scored out of 152 maximum points)&lt;/p>
 &lt;h3 id="kyoto-university">Kyoto University&lt;/h3>
 &lt;p>&lt;a class="link" href="http://www.i.kyoto-u.ac.jp/admission/application.html" target="_blank" rel="noopener"
 >Graduate School of Informatics&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://vision.ist.i.kyoto-u.ac.jp/" target="_blank" rel="noopener"
+>Computer Vision Lab&lt;/a>&lt;/p>
 &lt;h3 id="tokyo-institute-of-technology">Tokyo Institute of Technology&lt;/h3>
 &lt;p>&lt;a class="link" href="https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate" target="_blank" rel="noopener"
 >International Graduate Program&lt;/a>&lt;/p>
 &lt;h3 id="osaka-university">Osaka University&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.osaka-u.ac.jp/en/admissions/graduate" target="_blank" rel="noopener"
+>https://www.osaka-u.ac.jp/en/admissions/graduate&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://ngottx.github.io/index.html" target="_blank" rel="noopener"
+>https://ngottx.github.io/index.html&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h3 id="japan-advanced-institute-of-science-and-technology">Japan Advanced Institute of Science and Technology&lt;/h3>
 &lt;h3 id="national-institute-of-informatics">National Institute of Informatics&lt;/h3>
 &lt;p>&lt;a class="link" href="https://www.nii.ac.jp/graduate/en/entrance/general-admissions/" target="_blank" rel="noopener"
