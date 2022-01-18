@@ -231,32 +231,56 @@ Score: xx.x% (yyy points scored out of 152 maximum points)&lt;/p>
 &lt;h2 id="admission">Admission&lt;/h2>
 &lt;h3 id="the-university-of-tokyo">The University of Tokyo&lt;/h3>
 &lt;h3 id="kyoto-university">Kyoto University&lt;/h3>
-&lt;p>&lt;a class="link" href="http://www.i.kyoto-u.ac.jp/admission/application.html" target="_blank" rel="noopener"
->Graduate School of Informatics&lt;/a>&lt;/p>
-&lt;p>&lt;a class="link" href="https://vision.ist.i.kyoto-u.ac.jp/" target="_blank" rel="noopener"
->Computer Vision Lab&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="http://www.i.kyoto-u.ac.jp/admission/application.html" target="_blank" rel="noopener"
+>Graduate School of Informatics&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://vision.ist.i.kyoto-u.ac.jp/" target="_blank" rel="noopener"
+>Computer Vision Lab&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="http://www.ml.ist.i.kyoto-u.ac.jp/en/en-recruitment" target="_blank" rel="noopener"
+>Machine Learning and Data Mining Research Laboratory&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="http://www.i.kyoto-u.ac.jp/fellowship/" target="_blank" rel="noopener"
+>情報・ＡＩ・データ科学博士人材フェローシップ&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h3 id="tokyo-institute-of-technology">Tokyo Institute of Technology&lt;/h3>
-&lt;p>&lt;a class="link" href="https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate" target="_blank" rel="noopener"
->International Graduate Program&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate" target="_blank" rel="noopener"
+>International Graduate Program&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h3 id="osaka-university">Osaka University&lt;/h3>
 &lt;ul>
-&lt;li>&lt;a class="link" href="https://www.osaka-u.ac.jp/en/admissions/graduate" target="_blank" rel="noopener"
->https://www.osaka-u.ac.jp/en/admissions/graduate&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://ngottx.github.io/index.html" target="_blank" rel="noopener"
->https://ngottx.github.io/index.html&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.osaka-u.ac.jp/en/admissions/graduate" target="_blank" rel="noopener"
+>https://www.osaka-u.ac.jp/en/admissions/graduate&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://ngottx.github.io/index.html" target="_blank" rel="noopener"
+>https://ngottx.github.io/index.html&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.is.ids.osaka-u.ac.jp/" target="_blank" rel="noopener"
+>ISLab&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="http://cvl.ist.osaka-u.ac.jp/en/join/" target="_blank" rel="noopener"
+>Computer Vision Laboratory&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h3 id="japan-advanced-institute-of-science-and-technology">Japan Advanced Institute of Science and Technology&lt;/h3>
 &lt;h3 id="national-institute-of-informatics">National Institute of Informatics&lt;/h3>
-&lt;p>&lt;a class="link" href="https://www.nii.ac.jp/graduate/en/entrance/general-admissions/" target="_blank" rel="noopener"
->General admissions&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.nii.ac.jp/graduate/en/entrance/general-admissions/" target="_blank" rel="noopener"
+>General admissions&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;hr>
 &lt;h3 id="keio-university">Keio University&lt;/h3>
-&lt;p>&lt;a class="link" href="https://www.ic.keio.ac.jp/en/life/scholarship/available.html" target="_blank" rel="noopener"
->Scholarships Now Available&lt;/a>
-&lt;a class="link" href="https://www.st.keio.ac.jp/en/admissions/application.html" target="_blank" rel="noopener"
->Admissions&lt;/a>
-&lt;a class="link" href="http://www.hvrl.ics.keio.ac.jp/openings/" target="_blank" rel="noopener"
->Good Lab&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.ic.keio.ac.jp/en/life/scholarship/available.html" target="_blank" rel="noopener"
+>Scholarships Now Available&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.st.keio.ac.jp/en/admissions/application.html" target="_blank" rel="noopener"
+>Admissions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="http://www.hvrl.ics.keio.ac.jp/openings/" target="_blank" rel="noopener"
+>Good Lab&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h3 id="ritsumeikan-university">Ritsumeikan University&lt;/h3>
 &lt;ul>
 &lt;li>
