@@ -22,27 +22,30 @@ tags = [
 ### The University of Tokyo
 
 ### Kyoto University
-[Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/admission/application.html)
-
-[Computer Vision Lab](https://vision.ist.i.kyoto-u.ac.jp/)
-
+* [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/admission/application.html)
+* [Computer Vision Lab](https://vision.ist.i.kyoto-u.ac.jp/)
+* [Machine Learning and Data Mining Research Laboratory](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-recruitment)
+* [情報・ＡＩ・データ科学博士人材フェローシップ](http://www.i.kyoto-u.ac.jp/fellowship/)
 ### Tokyo Institute of Technology
-[International Graduate Program](https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate)
+* [International Graduate Program](https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate)
 
 ### Osaka University
 * https://www.osaka-u.ac.jp/en/admissions/graduate
 * https://ngottx.github.io/index.html
+
+* [ISLab](https://www.is.ids.osaka-u.ac.jp/)
+* [Computer Vision Laboratory](http://cvl.ist.osaka-u.ac.jp/en/join/)
 ### Japan Advanced Institute of Science and Technology
 
 ###  National Institute of Informatics 
-[General admissions](https://www.nii.ac.jp/graduate/en/entrance/general-admissions/)
+* [General admissions](https://www.nii.ac.jp/graduate/en/entrance/general-admissions/)
 
 ---
 
 ### Keio University
-[Scholarships Now Available](https://www.ic.keio.ac.jp/en/life/scholarship/available.html)
-[Admissions](https://www.st.keio.ac.jp/en/admissions/application.html)
-[Good Lab](http://www.hvrl.ics.keio.ac.jp/openings/)
+* [Scholarships Now Available](https://www.ic.keio.ac.jp/en/life/scholarship/available.html)
+* [Admissions](https://www.st.keio.ac.jp/en/admissions/application.html)
+* [Good Lab](http://www.hvrl.ics.keio.ac.jp/openings/)
 
 ### Ritsumeikan University
 * [MEXT](http://en.ritsumei.ac.jp/admissions/monbukagakusho-university-recommendation/?fbclid=IwAR3mBgLH1jqq0bPgrPvGHo-tfRMB7fBD3g0EdwLhrFzanjbL1dnJo4ka2GA)
