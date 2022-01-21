@@ -35,6 +35,8 @@ tags = [
 
 * [ISLab](https://www.is.ids.osaka-u.ac.jp/)
 * [Computer Vision Laboratory](http://cvl.ist.osaka-u.ac.jp/en/join/)
+* [SANKEN](https://www.sanken.osaka-u.ac.jp/en/students/admission/)
+* [Sakurai & Matsubara Lab.](https://www.dm.sanken.osaka-u.ac.jp/career/message-education/)
 ### Japan Advanced Institute of Science and Technology
 
 ###  National Institute of Informatics 
