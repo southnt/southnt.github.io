@@ -38,6 +38,8 @@ Có rất nhiều câu hỏi luyện tập có sẵn trên mạng, bạn có th�
 ### Luyện tập
 Một số nguồn bài tập để củng cố kiến thức (Chú ý, một vài câu trả lời có đáp án không đúng, nên đọc những comment của người khác về câu hỏi đó):
 * https://vceguide.com/scrum-certification/
+* https://www.examtopics.com/
+* https://www.itexams.com/
 * https://chercher.tech/agile-certification/scrum-master-certification-prep-questions-set-1
 * https://www.freecram.com/Home
 * https://quizform.net/

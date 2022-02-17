@@ -28,6 +28,8 @@ tags = [
 * [情報・ＡＩ・データ科学博士人材フェローシップ](http://www.i.kyoto-u.ac.jp/fellowship/)
 ### Tokyo Institute of Technology
 * [International Graduate Program](https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate)
+* [Biomedical Artificial Intelligence Research Unit](http://suzukilab.first.iir.titech.ac.jp/publications/conference-papers/)
+* [computer vision and machine learning.](https://d-itlab.c.titech.ac.jp/research/)
 
 ### Osaka University
 * https://www.osaka-u.ac.jp/en/admissions/graduate
