@@ -2,7 +2,7 @@
 +++
 author = "NamNT"
 title = "Artificial Intelligence (AI)"
-date = "2022-2-01"
+date = "2022-02-01"
 description = "Một vài trang web hữu ích về AI"
 categories = [
     "Tech",
