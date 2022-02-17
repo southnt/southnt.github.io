@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NamNT Blog</title><link>https://southnt.github.io/</link><description>Recent content on NamNT Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://southnt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Research Tools</title><link>https://southnt.github.io/p/research-tools/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/research-tools/</guid><description>&lt;h2 id="rank">Rank&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NamNT Blog</title><link>https://southnt.github.io/</link><description>Recent content on NamNT Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://southnt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Artificial Intelligence (AI)</title><link>https://southnt.github.io/p/artificial-intelligence-ai/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/artificial-intelligence-ai/</guid><description>&lt;h2 id="tiếng-việt">Tiếng Việt&lt;/h2>
+&lt;h3 id="ông-xuân-hồng">Ông Xuân Hồng&lt;/h3>
+&lt;p>&lt;a class="link" href="https://ongxuanhong.wordpress.com/about/" target="_blank" rel="noopener"
+>https://ongxuanhong.wordpress.com/about/&lt;/a>&lt;/p>
+&lt;h3 id="nguyễn-xuân-khánh">Nguyễn Xuân Khánh&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.facebook.com/nguyenxuankhanhm" target="_blank" rel="noopener"
+>https://www.facebook.com/nguyenxuankhanhm&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.facebook.com/mlearners/" target="_blank" rel="noopener"
+>https://www.facebook.com/mlearners/&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.facebook.com/groups/485581088316769/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/485581088316769/&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://machineslearner.com/?fbclid=IwAR0IeQo3hyCIzAggwNXYNd1gRiue1iLd7oF549GwlmCWvDwmJ9FLK7G0aY0#Tutorials" target="_blank" rel="noopener"
+>https://machineslearner.com/?fbclid=IwAR0IeQo3hyCIzAggwNXYNd1gRiue1iLd7oF549GwlmCWvDwmJ9FLK7G0aY0#Tutorials&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="tôi-là-duyệt">Tôi là Duyệt&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://blog.duyet.net/" target="_blank" rel="noopener"
+>https://blog.duyet.net/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="tạp-chí-trí-tuệ-nhân-tạo">TẠP CHÍ TRÍ TUỆ NHÂN TẠO&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tapchiai.com/" target="_blank" rel="noopener"
+>https://tapchiai.com/&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.facebook.com/TapchiAI/" target="_blank" rel="noopener"
+>https://www.facebook.com/TapchiAI/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="tiep-vuhuu">Tiep VuHuu&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.facebook.com/vuhuutiep" target="_blank" rel="noopener"
+>https://www.facebook.com/vuhuutiep&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.facebook.com/machinelearningbasicvn/" target="_blank" rel="noopener"
+>https://www.facebook.com/machinelearningbasicvn/&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.facebook.com/groups/machinelearningcoban/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/machinelearningcoban/&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://forum.machinelearningcoban.com/" target="_blank" rel="noopener"
+>https://forum.machinelearningcoban.com/&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://d2l.aivivn.com/intro_vn.html" target="_blank" rel="noopener"
+>https://d2l.aivivn.com/intro_vn.html&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="pham-dinh-khanh">Pham dinh khanh&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://phamdinhkhanh.github.io/2019/08/10/PytorchTurtorial1.html" target="_blank" rel="noopener"
+>https://phamdinhkhanh.github.io/2019/08/10/PytorchTurtorial1.html&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://phamdinhkhanh.github.io/deepai-book/ch_ml/prediction.html" target="_blank" rel="noopener"
+>https://phamdinhkhanh.github.io/deepai-book/ch_ml/prediction.html&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="kipalog">kipalog&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://kipalog.com/search?q=machine&amp;#43;learning" target="_blank" rel="noopener"
+>https://kipalog.com/search?q=machine+learning&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="viblo">viblo&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://viblo.asia/search?q=machine%20learning" target="_blank" rel="noopener"
+>https://viblo.asia/search?q=machine%20learning&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="phamduytung">phamduytung&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.phamduytung.com/blog/" target="_blank" rel="noopener"
+>https://www.phamduytung.com/blog/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="hust-machine-learning">HUST, Machine Learning&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/watch?v=jc1wo_8VA1w&amp;amp;list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11" target="_blank" rel="noopener"
+>https://www.youtube.com/watch?v=jc1wo_8VA1w&amp;list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11&lt;/a>_&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai-viet-nam">AI VIET NAM&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.facebook.com/aivietnam.edu.vn/" target="_blank" rel="noopener"
+>https://www.facebook.com/aivietnam.edu.vn/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="english">English&lt;/h2>
+&lt;h3 id="neural-networks-and-deep-learninghttpneuralnetworksanddeeplearningcom">&lt;a class="link" href="http://neuralnetworksanddeeplearning.com/" target="_blank" rel="noopener"
+>Neural Networks and Deep Learning&lt;/a>&lt;/h3>
+&lt;h3 id="ufldlstanfordhttpufldlstanfordedututorial">&lt;a class="link" href="http://ufldl.stanford.edu/tutorial/" target="_blank" rel="noopener"
+>ufldl.stanford&lt;/a>&lt;/h3>
+&lt;h3 id="visionstanfordhttpvisionstanfordeduteachinghtml">&lt;a class="link" href="http://vision.stanford.edu/teaching.html" target="_blank" rel="noopener"
+>vision.stanford&lt;/a>&lt;/h3></description></item><item><title>Research Tools</title><link>https://southnt.github.io/p/research-tools/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/research-tools/</guid><description>&lt;h2 id="rank">Rank&lt;/h2>
 &lt;ul>
 &lt;li>Conference ranks: &lt;a class="link" href="http://www.conferenceranks.com/#data" target="_blank" rel="noopener"
 >http://www.conferenceranks.com/#data&lt;/a>&lt;/li>
@@ -517,82 +595,4 @@ alt="ví dụ">
 &lt;blockquote>
 &lt;p>A metric is a value that&amp;rsquo;s assigned to an IP route for a particular network interface. It identifies the cost that&amp;rsquo;s associated with using that route.&lt;/p>
 &lt;/blockquote>
-&lt;p>Trước khi install wsl, packet đi theo lộ trình A không có vấn đề gì, nhưng sau khi install wsl2 thì giá trị metrix bị thay đổi đẫn đến packet đi theo lộ trình B. Ở lộ trình B này, ở một hub nào đó giá trị MTU &amp;lt; giá trị MTU mà máy bạn setting thì packet sẽ không truyền đi được dẫn tới lỗi!&lt;/p></description></item><item><title>Template</title><link>https://southnt.github.io/p/template/</link><pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/template/</guid><description>&lt;h2 id="template">Template&lt;/h2></description></item><item><title>Artificial Intelligence (AI)</title><link>https://southnt.github.io/p/artificial-intelligence-ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/artificial-intelligence-ai/</guid><description>&lt;h2 id="tiếng-việt">Tiếng Việt&lt;/h2>
-&lt;h3 id="ông-xuân-hồng">Ông Xuân Hồng&lt;/h3>
-&lt;p>&lt;a class="link" href="https://ongxuanhong.wordpress.com/about/" target="_blank" rel="noopener"
->https://ongxuanhong.wordpress.com/about/&lt;/a>&lt;/p>
-&lt;h3 id="nguyễn-xuân-khánh">Nguyễn Xuân Khánh&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.facebook.com/nguyenxuankhanhm" target="_blank" rel="noopener"
->https://www.facebook.com/nguyenxuankhanhm&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.facebook.com/mlearners/" target="_blank" rel="noopener"
->https://www.facebook.com/mlearners/&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.facebook.com/groups/485581088316769/" target="_blank" rel="noopener"
->https://www.facebook.com/groups/485581088316769/&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://machineslearner.com/?fbclid=IwAR0IeQo3hyCIzAggwNXYNd1gRiue1iLd7oF549GwlmCWvDwmJ9FLK7G0aY0#Tutorials" target="_blank" rel="noopener"
->https://machineslearner.com/?fbclid=IwAR0IeQo3hyCIzAggwNXYNd1gRiue1iLd7oF549GwlmCWvDwmJ9FLK7G0aY0#Tutorials&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="tôi-là-duyệt">Tôi là Duyệt&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://blog.duyet.net/" target="_blank" rel="noopener"
->https://blog.duyet.net/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="tạp-chí-trí-tuệ-nhân-tạo">TẠP CHÍ TRÍ TUỆ NHÂN TẠO&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://tapchiai.com/" target="_blank" rel="noopener"
->https://tapchiai.com/&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.facebook.com/TapchiAI/" target="_blank" rel="noopener"
->https://www.facebook.com/TapchiAI/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="tiep-vuhuu">Tiep VuHuu&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.facebook.com/vuhuutiep" target="_blank" rel="noopener"
->https://www.facebook.com/vuhuutiep&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.facebook.com/machinelearningbasicvn/" target="_blank" rel="noopener"
->https://www.facebook.com/machinelearningbasicvn/&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.facebook.com/groups/machinelearningcoban/" target="_blank" rel="noopener"
->https://www.facebook.com/groups/machinelearningcoban/&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://forum.machinelearningcoban.com/" target="_blank" rel="noopener"
->https://forum.machinelearningcoban.com/&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://d2l.aivivn.com/intro_vn.html" target="_blank" rel="noopener"
->https://d2l.aivivn.com/intro_vn.html&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="pham-dinh-khanh">Pham dinh khanh&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://phamdinhkhanh.github.io/2019/08/10/PytorchTurtorial1.html" target="_blank" rel="noopener"
->https://phamdinhkhanh.github.io/2019/08/10/PytorchTurtorial1.html&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://phamdinhkhanh.github.io/deepai-book/ch_ml/prediction.html" target="_blank" rel="noopener"
->https://phamdinhkhanh.github.io/deepai-book/ch_ml/prediction.html&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="kipalog">kipalog&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://kipalog.com/search?q=machine&amp;#43;learning" target="_blank" rel="noopener"
->https://kipalog.com/search?q=machine+learning&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="viblo">viblo&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://viblo.asia/search?q=machine%20learning" target="_blank" rel="noopener"
->https://viblo.asia/search?q=machine%20learning&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="phamduytung">phamduytung&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.phamduytung.com/blog/" target="_blank" rel="noopener"
->https://www.phamduytung.com/blog/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="hust-machine-learning">HUST, Machine Learning&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.youtube.com/watch?v=jc1wo_8VA1w&amp;amp;list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11" target="_blank" rel="noopener"
->https://www.youtube.com/watch?v=jc1wo_8VA1w&amp;list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11&lt;/a>_&lt;/li>
-&lt;/ul>
-&lt;h3 id="ai-viet-nam">AI VIET NAM&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.facebook.com/aivietnam.edu.vn/" target="_blank" rel="noopener"
->https://www.facebook.com/aivietnam.edu.vn/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="english">English&lt;/h2>
-&lt;h3 id="neural-networks-and-deep-learninghttpneuralnetworksanddeeplearningcom">&lt;a class="link" href="http://neuralnetworksanddeeplearning.com/" target="_blank" rel="noopener"
->Neural Networks and Deep Learning&lt;/a>&lt;/h3>
-&lt;h3 id="ufldlstanfordhttpufldlstanfordedututorial">&lt;a class="link" href="http://ufldl.stanford.edu/tutorial/" target="_blank" rel="noopener"
->ufldl.stanford&lt;/a>&lt;/h3>
-&lt;h3 id="visionstanfordhttpvisionstanfordeduteachinghtml">&lt;a class="link" href="http://vision.stanford.edu/teaching.html" target="_blank" rel="noopener"
->vision.stanford&lt;/a>&lt;/h3></description></item></channel></rss>
+&lt;p>Trước khi install wsl, packet đi theo lộ trình A không có vấn đề gì, nhưng sau khi install wsl2 thì giá trị metrix bị thay đổi đẫn đến packet đi theo lộ trình B. Ở lộ trình B này, ở một hub nào đó giá trị MTU &amp;lt; giá trị MTU mà máy bạn setting thì packet sẽ không truyền đi được dẫn tới lỗi!&lt;/p></description></item><item><title>Template</title><link>https://southnt.github.io/p/template/</link><pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/template/</guid><description>&lt;h2 id="template">Template&lt;/h2></description></item></channel></rss>
