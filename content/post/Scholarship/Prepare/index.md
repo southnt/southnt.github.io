@@ -22,16 +22,30 @@ tags = [
 ### The University of Tokyo
 
 ### Kyoto University
+- Admission Fee: 282,000 yen (tentative)
+- Annual Tuition: 535,800 yen (tentative)
+- [English](https://www.mext.go.jp/b_menu/houdou/30/03/__icsFiles/afieldfile/2019/01/15/1402610_1.pdf)
+
+
 * [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/admission/application.html)
 * [Computer Vision Lab](https://vision.ist.i.kyoto-u.ac.jp/)
 * [Machine Learning and Data Mining Research Laboratory](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-recruitment)
 * [情報・ＡＩ・データ科学博士人材フェローシップ](http://www.i.kyoto-u.ac.jp/fellowship/)
 ### Tokyo Institute of Technology
+- Application Fee: JPY30,000
+- Enrollment Fee: JPY282,000
+- Annual Tuition：JPY635,400
+
+
 * [International Graduate Program](https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate)
 * [Biomedical Artificial Intelligence Research Unit](http://suzukilab.first.iir.titech.ac.jp/publications/conference-papers/)
 * [computer vision and machine learning.](https://d-itlab.c.titech.ac.jp/research/)
 
 ### Osaka University
+- Admission Fee: 282,000 yen (tentative)
+- Annual Tuition: 535,800 yen (tentative)
+
+
 * https://www.osaka-u.ac.jp/en/admissions/graduate
 * https://ngottx.github.io/index.html
 
@@ -43,6 +57,12 @@ tags = [
 
 ###  National Institute of Informatics 
 * [General admissions](https://www.nii.ac.jp/graduate/en/entrance/general-admissions/)
+
+### Tokyo Medical and Dental University (TMDU)
+* [Graduate School of Medical and Dental Sciences](https://www.tmd.ac.jp/english/admissions/application/graduate/)
+
+### RIKEN
+* [IPA](https://www.riken.jp/en/careers/programs/ipa/)
 
 ---
 
