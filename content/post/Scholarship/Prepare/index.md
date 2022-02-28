@@ -20,7 +20,7 @@ tags = [
 ## Admission
 
 ### The University of Tokyo
-![The University of Tokyo](https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUnivOfTokyo_logo.svg&psig=AOvVaw3MlnRUMsLZSUVEfiI_2gq_&ust=1646123254999000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPjyqJP9ofYCFQAAAAAdAAAAABAD)
+![The University of Tokyo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UnivOfTokyo_logo.svg/2880px-UnivOfTokyo_logo.svg.png)
 
 ### Kyoto University
 - Admission Fee: 282,000 yen (tentative)
