@@ -20,6 +20,7 @@ tags = [
 ## Admission
 
 ### The University of Tokyo
+![The University of Tokyo]([https://image/src1](https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUnivOfTokyo_logo.svg&psig=AOvVaw3MlnRUMsLZSUVEfiI_2gq_&ust=1646123254999000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPjyqJP9ofYCFQAAAAAdAAAAABAD))
 
 ### Kyoto University
 - Admission Fee: 282,000 yen (tentative)
@@ -32,22 +33,23 @@ tags = [
 * [Machine Learning and Data Mining Research Laboratory](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-recruitment)
 * [情報・ＡＩ・データ科学博士人材フェローシップ](http://www.i.kyoto-u.ac.jp/fellowship/)
 ### Tokyo Institute of Technology
-- Application Fee: JPY30,000
-- Enrollment Fee: JPY282,000
-- Annual Tuition：JPY635,400
-
+> Application Fee: JPY30,000 <br>
+> Enrollment Fee: JPY282,000 <br>
+> Annual Tuition：JPY635,400 <br>
 
 * [International Graduate Program](https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate)
 * [Biomedical Artificial Intelligence Research Unit](http://suzukilab.first.iir.titech.ac.jp/publications/conference-papers/)
 * [computer vision and machine learning.](https://d-itlab.c.titech.ac.jp/research/)
 
 ### Osaka University
-- Admission Fee: 282,000 yen (tentative)
-- Annual Tuition: 535,800 yen (tentative)
+> Admission Fee: 282,000 yen (tentative) <br>
+> Annual Tuition: 535,800 yen (tentative) <br>
 
 
 * https://www.osaka-u.ac.jp/en/admissions/graduate
 * https://ngottx.github.io/index.html
+
+<br>
 
 * [ISLab](https://www.is.ids.osaka-u.ac.jp/)
 * [Computer Vision Laboratory](http://cvl.ist.osaka-u.ac.jp/en/join/)
