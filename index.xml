@@ -332,8 +332,8 @@ alt="Kyoto University">
 &lt;figcaption>Kyoto University&lt;/figcaption>
 &lt;/figure>&lt;/p>
 &lt;blockquote>
-&lt;p>Admission Fee: 282,000 yen (tentative)&lt;/p>
-&lt;p>Annual Tuition: 535,800 yen (tentative)&lt;/p>
+&lt;p>Admission Fee: 282,000 yen (tentative) &lt;!-- raw HTML omitted -->
+Annual Tuition: 535,800 yen (tentative)&lt;/p>
 &lt;/blockquote>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://www.mext.go.jp/b_menu/houdou/30/03/__icsFiles/afieldfile/2019/01/15/1402610_1.pdf" target="_blank" rel="noopener"
