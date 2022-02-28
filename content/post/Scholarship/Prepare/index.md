@@ -25,8 +25,7 @@ tags = [
 ### Kyoto University
 ![Kyoto University](https://upload.wikimedia.org/wikipedia/en/5/54/Kyoto_University_logo.svg)
 
-> Admission Fee: 282,000 yen (tentative)
-> 
+> Admission Fee: 282,000 yen (tentative) <br/>
 > Annual Tuition: 535,800 yen (tentative)
 - [English](https://www.mext.go.jp/b_menu/houdou/30/03/__icsFiles/afieldfile/2019/01/15/1402610_1.pdf)
 
