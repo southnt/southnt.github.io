@@ -312,6 +312,15 @@ Score: xx.x% (yyy points scored out of 152 maximum points)&lt;/p>
 &lt;/ul>
 &lt;h2 id="admission">Admission&lt;/h2>
 &lt;h3 id="the-university-of-tokyo">The University of Tokyo&lt;/h3>
+&lt;p>&lt;figure
+>
+&lt;a href="https://southnt.github.io/[https:/image/src1]%28https:/www.google.com.vn/url?sa=i&amp;amp;url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUnivOfTokyo_logo.svg&amp;amp;psig=AOvVaw3MlnRUMsLZSUVEfiI_2gq_&amp;amp;ust=1646123254999000&amp;amp;source=images&amp;amp;cd=vfe&amp;amp;ved=0CAgQjRxqFwoTCPjyqJP9ofYCFQAAAAAdAAAAABAD%29" >
+&lt;img src="https://southnt.github.io/[https:/image/src1]%28https:/www.google.com.vn/url?sa=i&amp;amp;url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUnivOfTokyo_logo.svg&amp;amp;psig=AOvVaw3MlnRUMsLZSUVEfiI_2gq_&amp;amp;ust=1646123254999000&amp;amp;source=images&amp;amp;cd=vfe&amp;amp;ved=0CAgQjRxqFwoTCPjyqJP9ofYCFQAAAAAdAAAAABAD%29"
+loading="lazy"
+alt="The University of Tokyo">
+&lt;/a>
+&lt;figcaption>The University of Tokyo&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h3 id="kyoto-university">Kyoto University&lt;/h3>
 &lt;ul>
 &lt;li>Admission Fee: 282,000 yen (tentative)&lt;/li>
@@ -330,11 +339,11 @@ Score: xx.x% (yyy points scored out of 152 maximum points)&lt;/p>
 >情報・ＡＩ・データ科学博士人材フェローシップ&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="tokyo-institute-of-technology">Tokyo Institute of Technology&lt;/h3>
-&lt;ul>
-&lt;li>Application Fee: JPY30,000&lt;/li>
-&lt;li>Enrollment Fee: JPY282,000&lt;/li>
-&lt;li>Annual Tuition：JPY635,400&lt;/li>
-&lt;/ul>
+&lt;blockquote>
+&lt;p>Application Fee: JPY30,000 &lt;!-- raw HTML omitted -->
+Enrollment Fee: JPY282,000 &lt;!-- raw HTML omitted -->
+Annual Tuition：JPY635,400 &lt;!-- raw HTML omitted -->&lt;/p>
+&lt;/blockquote>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://www.titech.ac.jp/english/admissions/prospective-students/international/international-graduate" target="_blank" rel="noopener"
 >International Graduate Program&lt;/a>&lt;/li>
@@ -344,35 +353,26 @@ Score: xx.x% (yyy points scored out of 152 maximum points)&lt;/p>
 >computer vision and machine learning.&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="osaka-university">Osaka University&lt;/h3>
+&lt;blockquote>
+&lt;p>Admission Fee: 282,000 yen (tentative) &lt;!-- raw HTML omitted -->
+Annual Tuition: 535,800 yen (tentative) &lt;!-- raw HTML omitted -->&lt;/p>
+&lt;/blockquote>
 &lt;ul>
-&lt;li>Admission Fee: 282,000 yen (tentative)&lt;/li>
-&lt;li>Annual Tuition: 535,800 yen (tentative)&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.osaka-u.ac.jp/en/admissions/graduate" target="_blank" rel="noopener"
+>https://www.osaka-u.ac.jp/en/admissions/graduate&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://ngottx.github.io/index.html" target="_blank" rel="noopener"
+>https://ngottx.github.io/index.html&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!-- raw HTML omitted -->
 &lt;ul>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.osaka-u.ac.jp/en/admissions/graduate" target="_blank" rel="noopener"
->https://www.osaka-u.ac.jp/en/admissions/graduate&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://ngottx.github.io/index.html" target="_blank" rel="noopener"
->https://ngottx.github.io/index.html&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.is.ids.osaka-u.ac.jp/" target="_blank" rel="noopener"
->ISLab&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="http://cvl.ist.osaka-u.ac.jp/en/join/" target="_blank" rel="noopener"
->Computer Vision Laboratory&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.sanken.osaka-u.ac.jp/en/students/admission/" target="_blank" rel="noopener"
->SANKEN&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.dm.sanken.osaka-u.ac.jp/career/message-education/" target="_blank" rel="noopener"
->Sakurai &amp;amp; Matsubara Lab.&lt;/a>&lt;/p>
-&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.is.ids.osaka-u.ac.jp/" target="_blank" rel="noopener"
+>ISLab&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="http://cvl.ist.osaka-u.ac.jp/en/join/" target="_blank" rel="noopener"
+>Computer Vision Laboratory&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.sanken.osaka-u.ac.jp/en/students/admission/" target="_blank" rel="noopener"
+>SANKEN&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.dm.sanken.osaka-u.ac.jp/career/message-education/" target="_blank" rel="noopener"
+>Sakurai &amp;amp; Matsubara Lab.&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="japan-advanced-institute-of-science-and-technology">Japan Advanced Institute of Science and Technology&lt;/h3>
 &lt;h3 id="national-institute-of-informatics">National Institute of Informatics&lt;/h3>
