@@ -35,6 +35,8 @@ tags = [
 * [Machine Learning and Data Mining Research Laboratory](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-recruitment)
 * [情報・ＡＩ・データ科学博士人材フェローシップ](http://www.i.kyoto-u.ac.jp/fellowship/)
 ### Tokyo Institute of Technology
+![Titech University](https://japan-product.com/wp-content/uploads/2017/11/Tokyo-Institute-of-Technology-Logo-500x500.png)
+
 > Application Fee: JPY30,000 
 > 
 > Enrollment Fee: JPY282,000 
@@ -46,6 +48,8 @@ tags = [
 * [computer vision and machine learning.](https://d-itlab.c.titech.ac.jp/research/)
 
 ### Osaka University
+![Osaka University](https://pbs.twimg.com/profile_images/687490098271653888/RuIDJRth_400x400.png)
+
 > Admission Fee: 282,000 yen (tentative)
 > 
 > Annual Tuition: 535,800 yen (tentative)
@@ -69,16 +73,20 @@ tags = [
 * [Graduate School of Medical and Dental Sciences](https://www.tmd.ac.jp/english/admissions/application/graduate/)
 
 ### RIKEN
+![Riken](https://web.brc.riken.jp/en/wp-content/uploads/banner_riken.png)
 * [IPA](https://www.riken.jp/en/careers/programs/ipa/)
 
 ---
 
 ### Keio University
+![Keio University](https://www.keio.ac.jp/en/assets/common/images/footer_title_01_sp.png)
+
 * [Scholarships Now Available](https://www.ic.keio.ac.jp/en/life/scholarship/available.html)
 * [Admissions](https://www.st.keio.ac.jp/en/admissions/application.html)
 * [Good Lab](http://www.hvrl.ics.keio.ac.jp/openings/)
 
 ### Ritsumeikan University
+![Ritsumeikan University](hhttps://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_rits_univ.svg)
 * [MEXT](http://en.ritsumei.ac.jp/admissions/monbukagakusho-university-recommendation/?fbclid=IwAR3mBgLH1jqq0bPgrPvGHo-tfRMB7fBD3g0EdwLhrFzanjbL1dnJo4ka2GA)
 
 * [立命館大学NEXT フェローシップ](http://www.ritsumei.ac.jp/news/detail/?id=2028)
