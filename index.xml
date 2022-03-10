@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NamNT Blog</title><link>https://southnt.github.io/</link><description>Recent content on NamNT Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://southnt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Artificial Intelligence (AI)</title><link>https://southnt.github.io/p/artificial-intelligence-ai/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/artificial-intelligence-ai/</guid><description>&lt;h2 id="tiếng-việt">Tiếng Việt&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NamNT Blog</title><link>https://southnt.github.io/</link><description>Recent content on NamNT Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://southnt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Template</title><link>https://southnt.github.io/p/template/</link><pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/template/</guid><description>&lt;h2 id="prepare">Prepare&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/ngominhhaivietnam/posts/778137359307149" target="_blank" rel="noopener"
+>https://www.facebook.com/ngominhhaivietnam/posts/778137359307149&lt;/a>&lt;/td>
+&lt;td>Đọc những điều này, đời nghiên cứu sinh của các bạn có thể rút ngắn được 1 năm.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/636078959788124/permalink/2450998954962773/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/636078959788124/permalink/2450998954962773/&lt;/a>&lt;/td>
+&lt;td>Làm thế nào tiếp cận các kiến thức khoa học kỹ thuật?&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/phdhumour/" target="_blank" rel="noopener"
+>https://www.facebook.com/phdhumour/&lt;/a>&lt;/td>
+&lt;td>Ph.D. Humour and Facts, Funy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/machinelearningcoban/permalink/444190246038388/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/machinelearningcoban/permalink/444190246038388/&lt;/a>&lt;/td>
+&lt;td>KHó khăn trong nghiên cứu, o biết làm gì, căng thẳng&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/quangtrung.duong/posts/10158956355924237" target="_blank" rel="noopener"
+>https://www.facebook.com/quangtrung.duong/posts/10158956355924237&lt;/a>&lt;/td>
+&lt;td>Tìm ra đường nghiên cứu khoa học&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/nghethuatsong8/posts/1572765009497840" target="_blank" rel="noopener"
+>https://www.facebook.com/nghethuatsong8/posts/1572765009497840&lt;/a>&lt;/td>
+&lt;td>ĐỂ MỘT NGÀY LÀM VIỆC TRỞ NÊN ĐÁNG GIÁ&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="paper">Paper&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.kdnuggets.com/2019/09/advice-building-machine-learning-career-research-papers-andrew-ng.html?fbclid=IwAR1GxZDDTFg0Q8oPDK3MRU3WGOsyB4Jbk33zT5tRrzjrJWpgko7uM6aNxCI" target="_blank" rel="noopener"
+>https://www.kdnuggets.com/2019/09/advice-building-machine-learning-career-research-papers-andrew-ng.html?fbclid=IwAR1GxZDDTFg0Q8oPDK3MRU3WGOsyB4Jbk33zT5tRrzjrJWpgko7uM6aNxCI&lt;/a>&lt;/td>
+&lt;td>Cách đọc paper, đọc bao nhiêu paper là đủ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://docs.google.com/document/d/1zXXtti9JgcTERvIZXNwSRncw2T1dUC8dt6PJlYSH-2g/edit#" target="_blank" rel="noopener"
+>https://docs.google.com/document/d/1zXXtti9JgcTERvIZXNwSRncw2T1dUC8dt6PJlYSH-2g/edit#&lt;/a>&lt;/td>
+&lt;td>quy tắc viết paper bằng latex, vẽ bảng&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/636078959788124/permalink/2470056303057038/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/636078959788124/permalink/2470056303057038/&lt;/a>&lt;/td>
+&lt;td>Làm sao để publish paper:&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/drnguyenvtuan/posts/644169456030375" target="_blank" rel="noopener"
+>https://www.facebook.com/drnguyenvtuan/posts/644169456030375&lt;/a>&lt;/td>
+&lt;td>Kĩ năng khoa học: cách đặt câu hỏi tốt trong hội thảo&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/636078959788124/permalink/2613139628748704/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/636078959788124/permalink/2613139628748704/&lt;/a>&lt;/td>
+&lt;td>Các thì (thời) tiếng Anh trong bài báo khoa học&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/vietphd/permalink/10156848755217991/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/vietphd/permalink/10156848755217991/&lt;/a>&lt;/td>
+&lt;td>HƯỚNG DẪN VIẾT BÀI BÁO KHOA HỌC VÀ CÔNG BỐ TRÊN CÁC TẠP CHÍ QUỐC TẾ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="http://www.jaist.ac.jp/~bao/writingsinvietnamese.html" target="_blank" rel="noopener"
+>http://www.jaist.ac.jp/~bao/writingsinvietnamese.html&lt;/a>&lt;/td>
+&lt;td>kinh nghiệm Hồ Tú Bảo&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="sad-storie">Sad storie&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://retractionwatch.com/2020/01/02/nobel-winner-retracts-paper-from-science/?fbclid=IwAR0Z6ZZMwsb8lAhfUvCcsqkYc2IA-JpxgBTX2iTE1XQ2v9Z-nfbYjWiFbyI" target="_blank" rel="noopener"
+>https://retractionwatch.com/2020/01/02/nobel-winner-retracts-paper-from-science/?fbclid=IwAR0Z6ZZMwsb8lAhfUvCcsqkYc2IA-JpxgBTX2iTE1XQ2v9Z-nfbYjWiFbyI&lt;/a>&lt;/td>
+&lt;td>rút lại bài báo của người đoạt noel&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/vietphd/permalink/10156757419977991/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/vietphd/permalink/10156757419977991/&lt;/a>&lt;/td>
+&lt;td>sv trung quốc vì báo sai, áp lực, tự tử&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/ivanet.org/permalink/2290608044358277/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/ivanet.org/permalink/2290608044358277/&lt;/a>&lt;/td>
+&lt;td>sv trung quốc vì báo sai, áp lực, tự tử&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/vsen.ovsed/permalink/2299310906822363/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/vsen.ovsed/permalink/2299310906822363/&lt;/a>&lt;/td>
+&lt;td>sv trung quốc vì báo sai, áp lực, tự tử&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.facebook.com/groups/Viet.EB1.EB2/permalink/2330621467186428/" target="_blank" rel="noopener"
+>https://www.facebook.com/groups/Viet.EB1.EB2/permalink/2330621467186428/&lt;/a>&lt;/td>
+&lt;td>sv trung quốc vì báo sai, áp lực, tự tử&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Artificial Intelligence (AI)</title><link>https://southnt.github.io/p/artificial-intelligence-ai/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://southnt.github.io/p/artificial-intelligence-ai/</guid><description>&lt;h2 id="tiếng-việt">Tiếng Việt&lt;/h2>
 &lt;h3 id="ông-xuân-hồng">Ông Xuân Hồng&lt;/h3>
 &lt;p>&lt;a class="link" href="https://ongxuanhong.wordpress.com/about/" target="_blank" rel="noopener"
 >https://ongxuanhong.wordpress.com/about/&lt;/a>&lt;/p>
