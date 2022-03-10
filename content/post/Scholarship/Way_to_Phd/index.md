@@ -1,7 +1,7 @@
 
 +++
 author = "NamNT"
-title = "Template"
+title = "Phd"
 date = "2022-03-10"
 description = "Phd"
 categories = [
@@ -33,6 +33,16 @@ tags = [
 | https://www.facebook.com/groups/636078959788124/permalink/2613139628748704/ | Các thì (thời) tiếng Anh trong bài báo khoa học                     |
 | https://www.facebook.com/groups/vietphd/permalink/10156848755217991/        | HƯỚNG DẪN VIẾT BÀI BÁO KHOA HỌC VÀ CÔNG BỐ TRÊN CÁC TẠP CHÍ QUỐC TẾ |
 | http://www.jaist.ac.jp/~bao/writingsinvietnamese.html | kinh nghiệm Hồ Tú Bảo |
+
+
+## 
+| Link                                                                            | Description                                              |
+|---------------------------------------------------------------------------------|----------------------------------------------------------|
+| https://www.facebook.com/giaotiepdethanhcong/posts/2519382784962547             | Nghệ thuật giao tiếp                                     |
+| https://www.facebook.com/giaotiepdethanhcong/posts/2424903637743796             | 13 THỦ THUẬT TÂM LÝ GIÚP BẠN GIAO TIẾP TỐT VỚI BẤT KỲ AI |
+| https://www.facebook.com/watch/?v=606632536425754                               | Cách làm người khác ngưng la mắng                        |
+| https://www.facebook.com/AwakePower/videos/1682274511809292/?v=1682274511809292 | ĐIỀU ĐẶC BIỆT Ở BẠN LÀ GÌ?                               |
+| https://www.facebook.com/bkquocte/videos/10156185017529462/?v=10156185017529462 | Nếu cảm thấy mệt mỏi, hãy xem video này!                 |
 
 ## Sad storie
 | Link                                                                                                                                                  | Description                             |
