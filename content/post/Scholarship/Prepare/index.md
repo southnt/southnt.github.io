@@ -87,7 +87,7 @@ tags = [
 
 ### Ritsumeikan University
 ![Ritsumeikan University](hhttps://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_rits_univ.svg)
-* [MEXT](http://en.ritsumei.ac.jp/admissions/monbukagakusho-university-recommendation/?fbclid=IwAR3mBgLH1jqq0bPgrPvGHo-tfRMB7fBD3g0EdwLhrFzanjbL1dnJo4ka2GA)
+* [MEXT](https://www.shorttermprograms.com/images/cache/600_by_314/uploads/institution-logos/ritsumeikan-university.png)
 
 * [立命館大学NEXT フェローシップ](http://www.ritsumei.ac.jp/news/detail/?id=2028)
 * [NEXT フェローシップ](http://www.ritsumei.ac.jp/next-fs/)
