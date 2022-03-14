@@ -85,7 +85,7 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h2 id="heading">&lt;/h2>
+&lt;h2 id="communication">Communication&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -210,7 +210,9 @@ loading="lazy"
 alt="The University of Tokyo">
 &lt;/a>
 &lt;figcaption>The University of Tokyo&lt;/figcaption>
-&lt;/figure>&lt;/p>
+&lt;/figure>
+&lt;a class="link" href="https://www.u-tokyo.ac.jp/en/academics/graduate_schools.html" target="_blank" rel="noopener"
+>Graduate Schools&lt;/a>&lt;/p>
 &lt;h3 id="kyoto-university">Kyoto University&lt;/h3>
 &lt;p>&lt;figure
 >
