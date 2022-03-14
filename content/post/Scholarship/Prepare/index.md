@@ -2,7 +2,7 @@
 +++
 author = "NamNT"
 title = "General admissions"
-date = "2021-12-17"
+date = "2022-03-17"
 description = "Thông tin về trường, admission, scholarship"
 categories = [
     "Scholarship",
@@ -11,6 +11,16 @@ tags = [
     "Scholarship",
 ]
 +++
+
+## English
+| Exam                                                                  | Fee                                                      |
+|-----------------------------------------------------------------------|----------------------------------------------------------|
+| [TOEIC](https://www.iibc-global.org/toeic/test/lr/guide01/schedule.html) |   8000円                                                      |
+| [TOEFL IBT](https://www.ets.org/jp/toefl/test-takers/)                   | $230 khoảng 24.855 yên                                   |
+| [IELTS](https://ieltsjp.com/japan/test-dates)                            | 26,400円（コンピューター形式）、25,380円（ペーパー形式） |
+
+
+[Tham khảo thêm tại đây](https://tomonivj.jp/thi-chung-chi-toeic-ielts-toefl-tai-nhat-ban-nhu-nao/)
 
 ## Japan Uni ranks
 * [QS World University Rankings 2022](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
@@ -86,9 +96,9 @@ tags = [
 * [Good Lab](http://www.hvrl.ics.keio.ac.jp/openings/)
 
 ### Ritsumeikan University
-![Ritsumeikan University](hhttps://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_rits_univ.svg)
-* [MEXT](https://www.shorttermprograms.com/images/cache/600_by_314/uploads/institution-logos/ritsumeikan-university.png)
+![Ritsumeikan University](https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_rits_univ.svg)
 
+* [MEXT](http://en.ritsumei.ac.jp/admissions/monbukagakusho-university-recommendation/?fbclid=IwAR3mBgLH1jqq0bPgrPvGHo-tfRMB7fBD3g0EdwLhrFzanjbL1dnJo4ka2GA)
 * [立命館大学NEXT フェローシップ](http://www.ritsumei.ac.jp/news/detail/?id=2028)
 * [NEXT フェローシップ](http://www.ritsumei.ac.jp/next-fs/)
 
