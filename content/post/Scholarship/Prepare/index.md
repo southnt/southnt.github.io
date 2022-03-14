@@ -16,7 +16,7 @@ tags = [
 | Exam                                                                  | Fee                                                      |
 |-----------------------------------------------------------------------|----------------------------------------------------------|
 | [TOEIC](https://www.iibc-global.org/toeic/test/lr/guide01/schedule.html) |   8000円                                                      |
-| [TOEFL IBT](https://www.ets.org/jp/toefl/test-takers/)                   | $230 khoảng 24.855 yên                                   |
+| [TOEFL IBT](https://www.ets.org/jp/toefl/test-takers/)                   | $245                                |
 | [IELTS](https://ieltsjp.com/japan/test-dates)                            | 26,400円（コンピューター形式）、25,380円（ペーパー形式） |
 
 
