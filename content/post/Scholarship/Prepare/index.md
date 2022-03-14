@@ -2,7 +2,7 @@
 +++
 author = "NamNT"
 title = "General admissions"
-date = "2021-12-17"
+date = "2022-02-17"
 description = "Thông tin về trường, admission, scholarship"
 categories = [
     "Scholarship",
@@ -11,6 +11,20 @@ tags = [
     "Scholarship",
 ]
 +++
+
+## English
+| Exam                                                                  | Fee                                                      |
+|-----------------------------------------------------------------------|----------------------------------------------------------|
+| [TOEIC](https://www.iibc-global.org/toeic/test/lr/guide01/schedule.html) |   8000円                                                      |
+| [TOEFL IBT](https://www.ets.org/jp/toefl/test-takers/)                   | $245                                |
+| [IELTS](https://ieltsjp.com/japan/test-dates)                            | 26,400円（コンピューター形式）、25,380円（ペーパー形式） |
+
+
+* [Tham khảo thêm tại đây](https://tomonivj.jp/thi-chung-chi-toeic-ielts-toefl-tai-nhat-ban-nhu-nao/)
+* [Ritsumekan CEFR Conversion Chart](http://en.ritsumei.ac.jp/admissions/file/CEFRconversionchart.pdf)
+* [MEXT CEFR Conversion Chart](https://www.mext.go.jp/b_menu/houdou/30/03/__icsFiles/afieldfile/2019/01/15/1402610_1.pdf)
+
+Scores from TOEIC Institutional Programs and TOEFL Institutional Testing Programs, TOEIC Speaking & Writing Tests, TOEIC Speaking Test, TOEIC Bridge Test, and IELTS General Training Module are not acceptable.
 
 ## Japan Uni ranks
 * [QS World University Rankings 2022](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
@@ -28,9 +42,6 @@ tags = [
 
 > Admission Fee: 282,000 yen (tentative) <br/>
 > Annual Tuition: 535,800 yen (tentative)
-- [English](https://www.mext.go.jp/b_menu/houdou/30/03/__icsFiles/afieldfile/2019/01/15/1402610_1.pdf)
-
-
 * [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/admission/application.html)
 * [Computer Vision Lab](https://vision.ist.i.kyoto-u.ac.jp/)
 * [Machine Learning and Data Mining Research Laboratory](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-recruitment)
@@ -87,9 +98,9 @@ tags = [
 * [Good Lab](http://www.hvrl.ics.keio.ac.jp/openings/)
 
 ### Ritsumeikan University
-![Ritsumeikan University](hhttps://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_rits_univ.svg)
-* [MEXT](http://en.ritsumei.ac.jp/admissions/monbukagakusho-university-recommendation/?fbclid=IwAR3mBgLH1jqq0bPgrPvGHo-tfRMB7fBD3g0EdwLhrFzanjbL1dnJo4ka2GA)
+![Ritsumeikan University](https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_rits_univ.svg)
 
+* [MEXT](http://en.ritsumei.ac.jp/admissions/monbukagakusho-university-recommendation/?fbclid=IwAR3mBgLH1jqq0bPgrPvGHo-tfRMB7fBD3g0EdwLhrFzanjbL1dnJo4ka2GA)
 * [立命館大学NEXT フェローシップ](http://www.ritsumei.ac.jp/news/detail/?id=2028)
 * [NEXT フェローシップ](http://www.ritsumei.ac.jp/next-fs/)
 
