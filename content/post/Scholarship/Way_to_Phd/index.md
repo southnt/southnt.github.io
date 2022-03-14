@@ -35,7 +35,7 @@ tags = [
 | [link](http://www.jaist.ac.jp/~bao/writingsinvietnamese.html) | kinh nghiệm Hồ Tú Bảo |
 
 
-## 
+## Communication
 | Link                                                                            | Description                                              |
 |---------------------------------------------------------------------------------|----------------------------------------------------------|
 | [link](https://www.facebook.com/giaotiepdethanhcong/posts/2519382784962547)             | Nghệ thuật giao tiếp                                     |

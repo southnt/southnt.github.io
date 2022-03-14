@@ -21,6 +21,7 @@ tags = [
 
 ### The University of Tokyo
 ![The University of Tokyo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UnivOfTokyo_logo.svg/2880px-UnivOfTokyo_logo.svg.png)
+[Graduate Schools](https://www.u-tokyo.ac.jp/en/academics/graduate_schools.html)
 
 ### Kyoto University
 ![Kyoto University](https://upload.wikimedia.org/wikipedia/en/5/54/Kyoto_University_logo.svg)
