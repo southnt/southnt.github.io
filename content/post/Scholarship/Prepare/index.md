@@ -2,7 +2,7 @@
 +++
 author = "NamNT"
 title = "General admissions"
-date = "2022-03-17"
+date = "2022-02-17"
 description = "Thông tin về trường, admission, scholarship"
 categories = [
     "Scholarship",
@@ -22,6 +22,9 @@ tags = [
 
 [Tham khảo thêm tại đây](https://tomonivj.jp/thi-chung-chi-toeic-ielts-toefl-tai-nhat-ban-nhu-nao/)
 
+* [Ritsumekan CEFR Conversion Chart](http://en.ritsumei.ac.jp/admissions/file/CEFRconversionchart.pdf)
+* [MEXT CEFR Conversion Chart](https://www.mext.go.jp/b_menu/houdou/30/03/__icsFiles/afieldfile/2019/01/15/1402610_1.pdf)
+
 ## Japan Uni ranks
 * [QS World University Rankings 2022](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
 * [University Rankings](https://www.4icu.org/jp/)
@@ -37,9 +40,6 @@ tags = [
 
 > Admission Fee: 282,000 yen (tentative) <br/>
 > Annual Tuition: 535,800 yen (tentative)
-- [English](https://www.mext.go.jp/b_menu/houdou/30/03/__icsFiles/afieldfile/2019/01/15/1402610_1.pdf)
-
-
 * [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/admission/application.html)
 * [Computer Vision Lab](https://vision.ist.i.kyoto-u.ac.jp/)
 * [Machine Learning and Data Mining Research Laboratory](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-recruitment)
