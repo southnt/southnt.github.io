@@ -42,6 +42,7 @@ Scores from TOEIC Institutional Programs and TOEFL Institutional Testing Program
 
 > Admission Fee: 282,000 yen (tentative) <br/>
 > Annual Tuition: 535,800 yen (tentative)
+* [Leading Graduate Schools](https://www.kyoto-u.ac.jp/en/research/fields/program-for-leading-graduate-schools)
 * [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/admission/application.html)
 * [Computer Vision Lab](https://vision.ist.i.kyoto-u.ac.jp/)
 * [Machine Learning and Data Mining Research Laboratory](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-recruitment)
@@ -66,7 +67,7 @@ Scores from TOEIC Institutional Programs and TOEFL Institutional Testing Program
 > 
 > Annual Tuition: 535,800 yen (tentative)
 
-
+* [Leading Graduate Schools](https://www.osaka-u.ac.jp/en/education/leading)
 * https://www.osaka-u.ac.jp/en/admissions/graduate
 * https://ngottx.github.io/index.html
 
