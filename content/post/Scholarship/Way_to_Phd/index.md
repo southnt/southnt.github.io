@@ -21,7 +21,8 @@ tags = [
 | [link](https://www.facebook.com/groups/machinelearningcoban/permalink/444190246038388/) | KHó khăn trong nghiên cứu, o biết làm gì, căng thẳng |
 | [link](https://www.facebook.com/quangtrung.duong/posts/10158956355924237)               | Tìm ra đường nghiên cứu khoa học                     |
 | [link](https://www.facebook.com/nghethuatsong8/posts/1572765009497840)                  | ĐỂ MỘT NGÀY LÀM VIỆC TRỞ NÊN ĐÁNG GIÁ                |
-
+| [link](https://youtu.be/6YcRFcmw76s) | My PhD Journey                       |
+| [link](https://youtu.be/ISBh_CCHUOs) | Nghiên cứu định tính với trẻ mần non |
 
 ## Paper
 | Link                                                                                                                                                                          | Description                               |
@@ -33,6 +34,7 @@ tags = [
 | [link](https://www.facebook.com/groups/636078959788124/permalink/2613139628748704/) | Các thì (thời) tiếng Anh trong bài báo khoa học                     |
 | [link](https://www.facebook.com/groups/vietphd/permalink/10156848755217991/)        | HƯỚNG DẪN VIẾT BÀI BÁO KHOA HỌC VÀ CÔNG BỐ TRÊN CÁC TẠP CHÍ QUỐC TẾ |
 | [link](http://www.jaist.ac.jp/~bao/writingsinvietnamese.html) | kinh nghiệm Hồ Tú Bảo |
+| [link](https://youtu.be/wBWSmFJ9lPo) | Tại sao bài báo của bạn bị reject    |
 
 
 ## Communication
