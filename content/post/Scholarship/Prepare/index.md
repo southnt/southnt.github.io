@@ -30,6 +30,7 @@ Scores from TOEIC Institutional Programs and TOEFL Institutional Testing Program
 * [QS World University Rankings 2022](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
 * [University Rankings](https://www.4icu.org/jp/)
 * [Xếp hạng các trường Đại học ở Nhật Bản phân theo khối ngành](https://jnavi.yoiwork.com/vi/topuniversityinjapan-vi/)
+* [Các lab tốt theo ngành, tại các trường](https://www.milive-plus.net/it-ranking/)
 
 ## Admission
 
