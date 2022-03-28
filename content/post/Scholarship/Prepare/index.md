@@ -27,10 +27,11 @@ tags = [
 Scores from TOEIC Institutional Programs and TOEFL Institutional Testing Programs, TOEIC Speaking & Writing Tests, TOEIC Speaking Test, TOEIC Bridge Test, and IELTS General Training Module are not acceptable.
 
 ## Japan Uni ranks
+* [リードする研究者、リードする大学](https://www.milive-plus.net/it-ranking/)
+* [Computer Science Rankings](https://csrankings.org/)
 * [QS World University Rankings 2022](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
 * [University Rankings](https://www.4icu.org/jp/)
 * [Xếp hạng các trường Đại học ở Nhật Bản phân theo khối ngành](https://jnavi.yoiwork.com/vi/topuniversityinjapan-vi/)
-* [リードする研究者、リードする大学](https://www.milive-plus.net/it-ranking/)
 
 ## Admission
 
