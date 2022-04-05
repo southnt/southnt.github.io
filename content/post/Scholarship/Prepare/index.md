@@ -37,7 +37,8 @@ Scores from TOEIC Institutional Programs and TOEFL Institutional Testing Program
 
 ### The University of Tokyo
 ![The University of Tokyo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UnivOfTokyo_logo.svg/2880px-UnivOfTokyo_logo.svg.png)
-[Graduate Schools](https://www.u-tokyo.ac.jp/en/academics/graduate_schools.html)
+* [Graduate Schools](https://www.u-tokyo.ac.jp/en/academics/graduate_schools.html)
+* [Special Admission for "English Program on Intelligent Information Processing" (For Prospective Students)](https://www.i.u-tokyo.ac.jp/edu/entra/epiip_e.shtml?fbclid=IwAR3o_-3Zaorq50wSQh6tAs-gjzy0v30uWhIGsvVlxzdPAX2ZgRvaGGXJuOM)
 
 ### Kyoto University
 ![Kyoto University](https://upload.wikimedia.org/wikipedia/en/5/54/Kyoto_University_logo.svg)
