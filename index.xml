@@ -229,9 +229,13 @@ loading="lazy"
 alt="The University of Tokyo">
 &lt;/a>
 &lt;figcaption>The University of Tokyo&lt;/figcaption>
-&lt;/figure>
-&lt;a class="link" href="https://www.u-tokyo.ac.jp/en/academics/graduate_schools.html" target="_blank" rel="noopener"
->Graduate Schools&lt;/a>&lt;/p>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.u-tokyo.ac.jp/en/academics/graduate_schools.html" target="_blank" rel="noopener"
+>Graduate Schools&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.i.u-tokyo.ac.jp/edu/entra/epiip_e.shtml?fbclid=IwAR3o_-3Zaorq50wSQh6tAs-gjzy0v30uWhIGsvVlxzdPAX2ZgRvaGGXJuOM" target="_blank" rel="noopener"
+>Special Admission for &amp;ldquo;English Program on Intelligent Information Processing&amp;rdquo; (For Prospective Students)&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h3 id="kyoto-university">Kyoto University&lt;/h3>
 &lt;p>&lt;figure
 >
