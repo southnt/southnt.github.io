@@ -25,6 +25,7 @@ tags = [
 * Calendar of computer science conf: http://conferences.visionbib.com/Iris-Conferences.html
 ## Fund
 * Grants-in-Aid cấp cho các giáo sư/trường tại nhật: https://research-er.jp/
+* [KAKEN](https://nrid.nii.ac.jp/en/index/)
 
 ## Tool
 * TÌm kiếm tài liệu tương tự: [Connected Papers](https://www.connectedpapers.com/), [Research Rabbit](https://www.researchrabbit.ai/)
