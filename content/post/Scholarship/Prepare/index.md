@@ -88,6 +88,7 @@ Scores from TOEIC Institutional Programs and TOEFL Institutional Testing Program
 
 ### Tokyo Medical and Dental University (TMDU)
 * [Graduate School of Medical and Dental Sciences](https://www.tmd.ac.jp/english/admissions/application/graduate/)
+* [Staff](https://www.tmd.ac.jp/english/faculties/graduate_school/life_science_and_technology/department/)
 
 ### RIKEN
 ![Riken](https://web.brc.riken.jp/en/wp-content/uploads/banner_riken.png)
@@ -116,11 +117,13 @@ Scores from TOEIC Institutional Programs and TOEFL Institutional Testing Program
 
 ### Chuo University
 
-
 ### KOCHI UNIVERSITY OF TECHNOLOGY
 4-Chương trình học bổng tiến sĩ toàn phần (Special Scholarship Program) tại đại học công nghệ Kochi, Nhật Bản (Koichi University of Technology). Hb gồm: toàn bộ học phí + phí nhập học, phí ghi danh + 150 000 yên/tháng + 150 000 yên cho phí đi lại Yêu cầu: có master, dưới 35 tuổi, thành thạo tiếng anh và phải được môt giáo sư tiến cử và chấp nhận làm supervisor. Các topic có sẵn và giáo sư: nhóm ngành khoa học tự nhiên như Vật lý (vật lý plasma, thống kế,..), khoa học Vật liệu, khoa học công nghệ nano (rất nhiều), hóa học (polymer, hóa hữu cơ), công nghệ sinh (sinh học phân tử, di truyền, tế bào), kỹ thuật điện (mach công suất cao, mạch tích hợp, xử lý tín hiệu), khoa học thần kinh, kỹ thuật thông tin (computer science, machine learning, Ai, ...), kỹ thuật điều khiển tự động hóa, cơ khí, kỹ thuật bê tông cốt thép. 
 
 [SSP/CSC-KUT Research Project List for Prospective Students](https://www.kochi-tech.ac.jp/english/admission/ssp_aft19oct/ssp_research_project_list_for_prospective_students_enrolling_in_oct.html?fbclid=IwAR2U8vN3jLghpoqPhJqfykiIn6VTxi4KbUWS1U47LolDvXWSWwkp-a5ctyo)
+
+
+
 ---
 ## Scholarship (As private student)
 ### [Otsuka Foundation](http://www.otsukafoundation.org/guide/index.html)

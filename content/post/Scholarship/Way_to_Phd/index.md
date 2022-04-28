@@ -15,6 +15,7 @@ tags = [
 ## Prepare
 | Link                                                             | Description                                                                     |
 |------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| [link](https://www.facebook.com/groups/hbgshq/permalink/1592031614192849) | Viết CV xin học bổng |
 | [link](https://www.facebook.com/ngominhhaivietnam/posts/778137359307149) | Đọc những điều này, đời nghiên cứu sinh của các bạn có thể rút ngắn được 1 năm. |
 | [link](https://www.facebook.com/groups/636078959788124/permalink/2450998954962773/) | Làm thế nào tiếp cận các kiến thức khoa học kỹ thuật? |
 | [link](https://www.facebook.com/phdhumour/)                              | Ph.D. Humour and Facts, Funy                                                    |
